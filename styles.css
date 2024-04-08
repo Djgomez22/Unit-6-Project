@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: black;
+    font-weight: 800;
+    padding: 50px 20px;
+  color:white;
+  font-style:oblique;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstimg {
+    height: 350px;
+   padding: 50px 20px;
+}
+
+.secimg {
+  height:200px;
+   padding: 50px 60px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+
+
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+
+.oimg{
+  display:none;
+}
+
+.simg{
+  display:none;
+}
+
+
+
+.timg{
+  display:none;
+}
+
+.fimg{
+  
+  display:none;
+
+}
+
+.ttimg {
+
+  display:none;
+}
+
+
+.ffimg{
+  display:none;
+}
+
+
+.parttwo1{
+  display:none;
+}
+.parttwo2 {
+  display:none;
+}
+
+.partthree1 {
+  display:none;
+}
+
+.partthree2 {
+  display:none;
+}
+
+.partthree23 {
+
+display:none;
+}
+
+.partthree3{
+display:none;
+}
+
+.mah{
+     font-size: 50px;
+    background-color: darkred;
+    font-weight: 800;
+    padding: 50px 20px;
+    font-style:oblique;
+
+}
+
+ body {
+  background-image: url('https://i.pinimg.com/736x/9c/07/ae/9c07aeeb031e15dd32140ca337c3ff20.jpg');
+}
